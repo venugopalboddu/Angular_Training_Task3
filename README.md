@@ -1,4 +1,4 @@
-# Http
+# Upload photo and show the uploaded photo in image in angular form
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
